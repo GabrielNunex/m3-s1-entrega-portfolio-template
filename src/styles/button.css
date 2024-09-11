@@ -1,0 +1,14 @@
+.button{
+    color: var(--color-grey-1);
+    background-color: var(--color-primary);
+    border: none;
+    border-radius: 8px;
+    padding: 14.5px 2rem;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.button:hover{
+    background-color: var(--color-primary-50);  
+    box-shadow: inset 5px 5px 10px 0px rgba(0, 0, 0, 0.24);
+}
