@@ -40,6 +40,11 @@
     color: var(--color-grey-1);
 }
 
+.active{
+    font-weight: 700;
+    color: var(--color-grey-1);
+}
+
 .listItem:focus{
     font-weight: 700;
     color: var(--color-grey-1);
